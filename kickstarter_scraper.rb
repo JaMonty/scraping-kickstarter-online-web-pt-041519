@@ -27,6 +27,6 @@ projects = {}
     
   end 
  
-  # return the projects hash
+  
   projects
 end
